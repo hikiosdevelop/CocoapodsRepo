@@ -19,7 +19,7 @@ spec.homepage     = "http://www.baidu.com"
 spec.license      = "MIT"
 spec.author             = { "lmxlovehxm" => "565818669@qq.com" }
 spec.platform     = :ios, "8.0"
-spec.source       = { :svn => "https://192.0.0.140/HiStor/MobileAPP/IOS/PrivateCocoapods/HSSTLBaseTool", :tag => "0.0.1" }
+spec.source       = { :svn => "https://192.0.0.140/HiStor/MobileAPP/IOS/PrivateCocoapods/HSSTLBaseTool", :tag => "0.0.2" }
 
 spec.source_files  = "Classes", "Classes/**/*.{h,m}"
 spec.requires_arc = true
